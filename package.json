@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "git-commit-msg-linter": "^3.2.8"
+    "git-commit-msg-linter": "^3.2.8",
+    "nodemon": "^2.0.14"
   },
   "dependencies": {
     "express": "^4.17.1"
