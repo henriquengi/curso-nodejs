@@ -4,9 +4,10 @@
     "nodemon": "^2.0.14"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "sequelize": "^6.7.0"
   },
   "scripts": {
-    "nodemon" : "node_modules/.bin/nodemon"
+    "nodemon": "node_modules/.bin/nodemon"
   }
 }
